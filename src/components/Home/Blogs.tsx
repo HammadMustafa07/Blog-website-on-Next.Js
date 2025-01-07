@@ -40,9 +40,9 @@ export default function Blogs() {
                     <Image src={itimage} alt="AI image" height={300} width={559}></Image>
                     <p className="text-black text-[23px] pt-3">How IT Skills are Shaping the Modern Workplace</p>
                     <p className="text-black text-[18px]">
-                        IT skills are the foundation of today's tech-driven work environments. <br />
-                        Learn how companies value expertise in coding, networking, and cloud management.
-                        Equip yourself with practical skills to thrive in a <br /> technology-first world.
+                        IT skills are the foundation of today&#39;s tech-driven work environments. <br />
+                        Learn how companies value expertise in coding, networking, and cloud management. Equip yourself with practical skills to thrive in a <br /> technology-first world.
+
                     </p>
                     <Link className="relative top-2 text-blue-600" href={"/pages/blog2"}>See More</Link>
                 </div>
