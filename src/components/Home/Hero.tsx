@@ -1,5 +1,4 @@
 import Image from "next/image";
-import heroimage from "../../../public/home-page/heroimage.png"
 import heroimagebg from "../../../public/home-page/heroimagebg.png"
 
 export default function Hero() {

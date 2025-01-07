@@ -1,5 +1,3 @@
-import Image from "next/image";
-import aboutimage from "../../../../public/about-page/aboutimage.png"
 import Commentsection from "../../../components/Commentsection"
 
 export default function About() {

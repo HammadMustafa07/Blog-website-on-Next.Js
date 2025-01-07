@@ -1,6 +1,6 @@
 
 
-export default function About() {
+export default function Contact() {
   return (
     <div className="h-[547px] w-[] bg-[#D4D1CB]">
      <div className="flex flex-col gap-5 pl-[20px] pt-[40px]">

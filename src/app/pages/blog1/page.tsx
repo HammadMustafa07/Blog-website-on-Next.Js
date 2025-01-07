@@ -1,5 +1,4 @@
 import Image from "next/image";
-import aboutimage from "../../../../public/about-page/aboutimage.png"
 import ai from "../../../../public/home-page/ai.jpg"
 
 export default function blog1() {
